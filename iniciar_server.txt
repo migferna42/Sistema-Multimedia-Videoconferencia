@@ -1,0 +1,3 @@
+cd Multimedia
+cd site
+node server.js
